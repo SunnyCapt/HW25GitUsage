@@ -10,7 +10,7 @@
 
 public class Calculation {
     public static void main(String[] args) {
-        int targetNumber = 9 * 1915;
+        int targetNumber = 11 * 1915;
         int result = sumUpTo(targetNumber);
         System.out.println("sumUpTo(" + targetNumber + ") = " + result);
     }
